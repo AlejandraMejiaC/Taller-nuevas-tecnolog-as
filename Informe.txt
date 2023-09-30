@@ -17,3 +17,8 @@ de todas las modificaciones en el código en un tipo especial de base de datos. 
 los desarrolladores pueden ir hacia atrás en el tiempo y comparar las versiones anteriores del código 
 para ayudar a resolver el error, al tiempo que se minimizan las interrupciones para todos los miembros 
 del equipo.
+
+“ramas
+Como ignorar archivos para no ser comprometidos en el 
+área de trabajo.
+Cambiar de ramas y volver a la principal”
