@@ -1,0 +1,3 @@
+Para mi las clases fueron bastante iformativas y realmente me ayudaron para saber un poco mas de git 
+sobretodo porque no sabia lo de las ramas y tampoco sabia que se podia trabajar en diferentes ramas 
+y que los programadores podian trabajar en un proyecto en ramas diferentes.

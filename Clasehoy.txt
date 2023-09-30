@@ -1,0 +1,19 @@
+lo visto en la clase de hoy fue sobre las ramas de git
+dobre como crear nuevas ramas y como unirlas con la rama 
+principal los codigos exactos que vimos son:
+-Git branch
+-Creando una rama con:
+Git checkout –b seguido del nombre de la rama
+-Ver el contenido del archivo usando:
+Cat + nombre del archivo
+-Cambiar de rama:
+Git checkout + nombre de la rama a moverse
+-Traer los cambios de la nueva rama a la principal asi 
+(en este  caso siempre debe estar situado en la rama principal):
+Git merge seguido de la rama que deseamos mover
+
+que es un sistema de control de versiones:El software de control de versiones realiza un seguimiento 
+de todas las modificaciones en el código en un tipo especial de base de datos. Si se comete un error, 
+los desarrolladores pueden ir hacia atrás en el tiempo y comparar las versiones anteriores del código 
+para ayudar a resolver el error, al tiempo que se minimizan las interrupciones para todos los miembros 
+del equipo.
